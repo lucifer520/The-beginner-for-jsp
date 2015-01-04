@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;Config.properties&apos; to &apos;web/src/com.szy.web.servlet&apos;&#x0D;&#x0A;- Original project: &apos;web&apos;&#x0D;&#x0A;- Destination element: &apos;web/src/com.szy.web.servlet&apos;&#x0D;&#x0A;- Original element: &apos;Config.properties&apos;" description="Copy file" destination="/src&lt;com.szy.web.servlet" element1="src/com/szy/web/dao/Config.properties" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1408186467605" units="0" version="1.0"/>
+</session>

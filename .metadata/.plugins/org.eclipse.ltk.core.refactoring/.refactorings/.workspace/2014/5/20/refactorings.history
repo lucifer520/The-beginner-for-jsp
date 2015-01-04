@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 0 source folders to &apos;BeanPropert&apos;&#x0D;&#x0A;- Destination element: &apos;BeanPropert&apos;" description="Copy source folders" flags="6" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyRoots" roots="0" stamp="1400162769753" target="/BeanPropert" version="1.0"/>
+</session>

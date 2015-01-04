@@ -1,0 +1,10 @@
+127.0.0.1 - - [23/Jul/2014:22:42:36 +0800] "GET / HTTP/1.1" 404 951
+0:0:0:0:0:0:0:1 - - [23/Jul/2014:22:42:38 +0800] "GET /example/index.jsp HTTP/1.1" 200 385
+0:0:0:0:0:0:0:1 - - [23/Jul/2014:22:42:38 +0800] "GET /favicon.ico HTTP/1.1" 404 973
+0:0:0:0:0:0:0:1 - - [23/Jul/2014:22:42:38 +0800] "GET /favicon.ico HTTP/1.1" 404 973
+0:0:0:0:0:0:0:1 - - [23/Jul/2014:22:43:08 +0800] "POST /example/ServletMy HTTP/1.1" 200 67
+0:0:0:0:0:0:0:1 - - [23/Jul/2014:22:43:13 +0800] "GET /example/index.jsp HTTP/1.1" 200 385
+0:0:0:0:0:0:0:1 - - [23/Jul/2014:22:43:21 +0800] "POST /example/ServletMy HTTP/1.1" 200 84
+0:0:0:0:0:0:0:1 - - [23/Jul/2014:22:46:11 +0800] "GET /example/index.jsp HTTP/1.1" 200 384
+0:0:0:0:0:0:0:1 - - [23/Jul/2014:22:46:30 +0800] "GET /example/ServletMy?name=%E8%AE%B8%E6%B6%9B HTTP/1.1" 200 90
+0:0:0:0:0:0:0:1 - - [23/Jul/2014:22:47:08 +0800] "GET /example/ServletMy?name=xutao HTTP/1.1" 200 83

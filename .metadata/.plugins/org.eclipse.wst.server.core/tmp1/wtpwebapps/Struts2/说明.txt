@@ -1,0 +1,2 @@
+1。以前获得跳转过来界面的javabean需要${request.类名.变量名},现在Javabean写在了LoginAction中，可以框架自己匹配login。jsp post过来的表单，并且
+  以前jsp转发需要利用RequestDispatcher.forward()来传递对象的变量，现在直接利用struts。xml来转发，并在转发界面直接利用${变量名}来获取对象中的变量值

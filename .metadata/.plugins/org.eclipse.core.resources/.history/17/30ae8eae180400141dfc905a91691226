@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<web-app version="2.4" xmlns="http://java.sun.com/xml/ns/j2ee"    
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance  http://www.springmodules.org/schema/cache/springmodules-cache.xsd http://www.springmodules.org/schema/cache/springmodules-ehcache.xsd"    xsi:schemaLocation="http://java.sun.com/xml/ns/j2ee      
+    http://java.sun.com/xml/ns/j2ee/web-app_2_4.xsd          
+     ">    
+<servlet>
+        <servlet-name>MyServlet</servlet-name>
+        <servlet-class>com.servlet.httpServletRequest.MyServlet</servlet-class>
+ 
+</servlet>
+<servlet-mapping>
+       <servlet-name>MyServlet</servlet-name>
+       <url-pattern>/MyServlet</url-pattern>
+
+
+</servlet-mapping>
+
+
+
+<servlet>
+        <servlet-name>ServletMy</servlet-name>
+        <servlet-class>com.lyq.util.CharacterEncodingFilter.ServletMy</servlet-class>
+ 
+</servlet>
+<servlet-mapping>
+       <servlet-name>ServletMy</servlet-name>
+       <url-pattern>/ServletMy</url-pattern>
+
+
+</servlet-mapping>
+
+
+
+<Filter>
+	<Filter-name>CharacterEncodingFilter</Filter-name>
+	<Filter-class>com.lyq.util.CharacterEncodingFilter.CharacterEncodingFilter</Filter-class>
+	<init-param>
+		<param-name>encoding</param-name>
+		<param-value>UTF-8</param-value>
+
+	</init-param>
+
+
+</Filter>
+
+
+<Filter-mapping>
+	<Filter-name>CharacterEncodingFilter</Filter-name>
+	<!-- 与所有请求关联 -->
+	<url-pattern>/*</url-pattern>
+	<!-- 设置过滤器对应的请求方式 -->
+	<dispatcher>REQUEST</dispatcher>
+	<dispatcher>FORWORD</dispatcher>
+</Filter-mapping>
+
+
+</web-app>  

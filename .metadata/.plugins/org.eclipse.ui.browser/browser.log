@@ -1,0 +1,303 @@
+
+6月 02, 2014 21:32:33.44 NEW SESSION
+6月 02, 2014 21:32:33.44 *** ERROR COBA: Failed to hook function: getShortcutOrURI
+6月 02, 2014 21:54:56.00 No permission to use the keyboard API for http://googleads.g.doubleclick.net
+6月 02, 2014 22:09:54.53 NOTE: child process received `Goodbye', closing down
+6月 02, 2014 22:09:54.53 [9800] WARNING: pipe error: 109: file c:/builds/moz2_slave/rel-m-rel-w32_bld-000000000000/build/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 310
+
+6月 04, 2014 17:03:14.96 NEW SESSION
+6月 04, 2014 17:03:14.96 *** ERROR COBA: Failed to hook function: getShortcutOrURI
+6月 04, 2014 21:59:28.53 NOTE: child process received `Goodbye', closing down
+
+6月 05, 2014 20:53:44.68 NEW SESSION
+6月 05, 2014 20:53:44.68 *** ERROR COBA: Failed to hook function: getShortcutOrURI
+
+6月 08, 2014 17:59:58.69 NEW SESSION
+6月 08, 2014 17:59:58.69 *** ERROR COBA: Failed to hook function: getShortcutOrURI
+
+6月 09, 2014 14:10:29.81 NEW SESSION
+6月 09, 2014 14:10:29.81 *** ERROR COBA: Failed to hook function: getShortcutOrURI
+
+6月 09, 2014 15:25:52.40 NEW SESSION
+6月 09, 2014 15:25:52.40 *** ERROR COBA: Failed to hook function: getShortcutOrURI
+6月 09, 2014 15:28:19.21 *** ERROR COBA: Failed to hook function: getShortcutOrURI
+6月 09, 2014 15:30:14.78 *** ERROR COBA: Failed to hook function: getShortcutOrURI
+6月 09, 2014 15:30:59.99 *** ERROR COBA: Failed to hook function: getShortcutOrURI
+6月 09, 2014 15:49:41.79 *** ERROR COBA: Failed to hook function: getShortcutOrURI
+6月 09, 2014 15:52:13.95 *** ERROR COBA: Failed to hook function: getShortcutOrURI
+6月 09, 2014 15:54:47.52 *** ERROR COBA: Failed to hook function: getShortcutOrURI
+6月 09, 2014 16:15:45.25 *** ERROR COBA: Failed to hook function: getShortcutOrURI
+
+6月 10, 2014 13:40:45.44 NEW SESSION
+6月 10, 2014 13:40:45.44 *** ERROR COBA: Failed to hook function: getShortcutOrURI
+6月 10, 2014 13:44:41.05 *** ERROR COBA: Failed to hook function: getShortcutOrURI
+6月 10, 2014 14:47:39.69 *** ERROR COBA: Failed to hook function: getShortcutOrURI
+6月 10, 2014 14:49:09.20 *** ERROR COBA: Failed to hook function: getShortcutOrURI
+
+6月 12, 2014 09:17:15.22 NEW SESSION
+6月 12, 2014 09:17:15.22 *** ERROR COBA: Failed to hook function: getShortcutOrURI
+6月 12, 2014 09:49:33.73 NOTE: child process received `Goodbye', closing down
+6月 12, 2014 09:49:33.74 [1776] WARNING: pipe error: 109: file c:/builds/moz2_slave/rel-m-rel-w32_bld-000000000000/build/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 310
+
+6月 12, 2014 10:05:06.47 NEW SESSION
+6月 12, 2014 10:05:06.47 *** ERROR COBA: Failed to hook function: getShortcutOrURI
+6月 12, 2014 10:09:18.10 *** ERROR COBA: Failed to hook function: getShortcutOrURI
+6月 12, 2014 14:35:00.25 NOTE: child process received `Goodbye', closing down
+6月 12, 2014 14:35:00.40 [5548] WARNING: pipe error: 109: file c:/builds/moz2_slave/rel-m-rel-w32_bld-000000000000/build/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 310
+6月 12, 2014 14:35:42.16 *** ERROR COBA: Failed to hook function: getShortcutOrURI
+6月 12, 2014 14:36:30.65 *** ERROR COBA: Failed to hook function: getShortcutOrURI
+6月 12, 2014 14:46:44.74 *** ERROR COBA: Failed to hook function: getShortcutOrURI
+6月 12, 2014 14:51:51.12 *** ERROR COBA: Failed to hook function: getShortcutOrURI
+6月 12, 2014 14:53:35.71 *** ERROR COBA: Failed to hook function: getShortcutOrURI
+6月 12, 2014 14:54:20.89 *** ERROR COBA: Failed to hook function: getShortcutOrURI
+6月 12, 2014 14:54:58.19 *** ERROR COBA: Failed to hook function: getShortcutOrURI
+6月 12, 2014 14:58:49.95 *** ERROR COBA: Failed to hook function: getShortcutOrURI
+6月 12, 2014 14:59:24.86 *** ERROR COBA: Failed to hook function: getShortcutOrURI
+6月 12, 2014 15:04:09.70 No permission to use the keyboard API for http://googleads.g.doubleclick.net
+6月 12, 2014 15:05:58.61 NOTE: child process received `Goodbye', closing down
+6月 12, 2014 15:05:58.61 [6560] WARNING: pipe error: 109: file c:/builds/moz2_slave/rel-m-rel-w32_bld-000000000000/build/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 310
+6月 12, 2014 15:14:48.52 *** ERROR COBA: Failed to hook function: getShortcutOrURI
+6月 12, 2014 15:22:53.68 No permission to use the keyboard API for http://googleads.g.doubleclick.net
+6月 12, 2014 15:25:41.45 No permission to use the keyboard API for http://googleads.g.doubleclick.net
+6月 12, 2014 15:27:29.29 *** ERROR COBA: Failed to hook function: getShortcutOrURI
+6月 12, 2014 15:31:01.15 No permission to use the keyboard API for http://googleads.g.doubleclick.net
+6月 12, 2014 15:32:16.74 No permission to use the keyboard API for http://googleads.g.doubleclick.net
+6月 12, 2014 15:33:47.36 No permission to use the keyboard API for http://googleads.g.doubleclick.net
+6月 12, 2014 15:33:47.55 No permission to use the keyboard API for http://googleads.g.doubleclick.net
+6月 12, 2014 15:34:03.94 No permission to use the keyboard API for http://googleads.g.doubleclick.net
+6月 12, 2014 15:37:22.95 NOTE: child process received `Goodbye', closing down
+6月 12, 2014 15:37:22.96 [7532] WARNING: pipe error: 109: file c:/builds/moz2_slave/rel-m-rel-w32_bld-000000000000/build/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 310
+6月 12, 2014 15:40:21.85 No permission to use the keyboard API for http://googleads.g.doubleclick.net
+6月 12, 2014 15:43:42.60 NOTE: child process received `Goodbye', closing down
+6月 12, 2014 15:43:42.60 [1372] WARNING: pipe error: 109: file c:/builds/moz2_slave/rel-m-rel-w32_bld-000000000000/build/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 310
+6月 12, 2014 15:45:22.85 *** ERROR COBA: Failed to hook function: getShortcutOrURI
+6月 12, 2014 15:50:11.39 *** ERROR COBA: Failed to hook function: getShortcutOrURI
+6月 12, 2014 15:51:52.32 *** ERROR COBA: Failed to hook function: getShortcutOrURI
+6月 12, 2014 15:56:13.07 *** ERROR COBA: Failed to hook function: getShortcutOrURI
+6月 12, 2014 15:59:27.62 NOTE: child process received `Goodbye', closing down
+6月 12, 2014 15:59:27.62 [7964] WARNING: pipe error: 109: file c:/builds/moz2_slave/rel-m-rel-w32_bld-000000000000/build/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 310
+6月 12, 2014 15:59:33.34 *** ERROR COBA: Failed to hook function: getShortcutOrURI
+6月 12, 2014 16:07:45.66 *** ERROR COBA: Failed to hook function: getShortcutOrURI
+6月 12, 2014 16:08:25.59 *** ERROR COBA: Failed to hook function: getShortcutOrURI
+6月 12, 2014 16:20:09.56 NOTE: child process received `Goodbye', closing down
+6月 12, 2014 16:20:09.56 [5152] WARNING: pipe error: 109: file c:/builds/moz2_slave/rel-m-rel-w32_bld-000000000000/build/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 310
+6月 12, 2014 16:20:44.96 *** ERROR COBA: Failed to hook function: getShortcutOrURI
+6月 12, 2014 16:25:46.36 *** ERROR COBA: Failed to hook function: getShortcutOrURI
+6月 12, 2014 16:26:36.67 *** ERROR COBA: Failed to hook function: getShortcutOrURI
+6月 12, 2014 16:30:46.20 *** ERROR COBA: Failed to hook function: getShortcutOrURI
+6月 12, 2014 16:33:54.94 *** ERROR COBA: Failed to hook function: getShortcutOrURI
+6月 12, 2014 16:35:15.32 *** ERROR COBA: Failed to hook function: getShortcutOrURI
+6月 12, 2014 16:42:04.38 No permission to use the keyboard API for http://googleads.g.doubleclick.net
+6月 12, 2014 16:42:04.55 No permission to use the keyboard API for http://googleads.g.doubleclick.net
+6月 12, 2014 16:46:10.43 NOTE: child process received `Goodbye', closing down
+6月 12, 2014 16:46:10.43 [8500] WARNING: pipe error: 109: file c:/builds/moz2_slave/rel-m-rel-w32_bld-000000000000/build/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 310
+6月 12, 2014 17:38:37.49 NOTE: child process received `Goodbye', closing down
+6月 12, 2014 17:38:37.49 [7540] WARNING: pipe error: 109: file c:/builds/moz2_slave/rel-m-rel-w32_bld-000000000000/build/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 310
+
+6月 13, 2014 10:39:27.14 NEW SESSION
+6月 13, 2014 10:39:27.14 *** ERROR COBA: Failed to hook function: getShortcutOrURI
+6月 13, 2014 10:42:08.68 *** ERROR COBA: Failed to hook function: getShortcutOrURI
+6月 13, 2014 10:57:15.32 *** ERROR COBA: Failed to hook function: getShortcutOrURI
+6月 13, 2014 10:57:38.53 *** ERROR COBA: Failed to hook function: getShortcutOrURI
+6月 13, 2014 10:58:21.95 *** ERROR COBA: Failed to hook function: getShortcutOrURI
+6月 13, 2014 10:59:49.22 *** ERROR COBA: Failed to hook function: getShortcutOrURI
+6月 13, 2014 11:03:13.62 *** ERROR COBA: Failed to hook function: getShortcutOrURI
+
+6月 14, 2014 23:00:46.83 NEW SESSION
+6月 14, 2014 23:00:46.83 *** ERROR COBA: Failed to hook function: getShortcutOrURI
+6月 14, 2014 23:01:50.81 *** ERROR COBA: Failed to hook function: getShortcutOrURI
+6月 14, 2014 23:02:28.33 *** ERROR COBA: Failed to hook function: getShortcutOrURI
+6月 14, 2014 23:03:19.08 *** ERROR COBA: Failed to hook function: getShortcutOrURI
+6月 14, 2014 23:03:44.96 *** ERROR COBA: Failed to hook function: getShortcutOrURI
+6月 14, 2014 23:09:07.12 *** ERROR COBA: Failed to hook function: getShortcutOrURI
+6月 14, 2014 23:09:50.23 *** ERROR COBA: Failed to hook function: getShortcutOrURI
+6月 14, 2014 23:11:43.59 *** ERROR COBA: Failed to hook function: getShortcutOrURI
+6月 14, 2014 23:14:10.02 *** ERROR COBA: Failed to hook function: getShortcutOrURI
+
+6月 15, 2014 17:08:55.94 NEW SESSION
+6月 15, 2014 17:08:55.94 *** ERROR COBA: Failed to hook function: getShortcutOrURI
+6月 15, 2014 17:24:23.99 *** ERROR COBA: Failed to hook function: getShortcutOrURI
+6月 15, 2014 17:46:20.88 No permission to use the keyboard API for http://googleads.g.doubleclick.net
+6月 15, 2014 17:46:35.24 No permission to use the keyboard API for http://googleads.g.doubleclick.net
+6月 15, 2014 18:18:58.34 [5144] WARNING: pipe error: 109: file c:/builds/moz2_slave/rel-m-rel-w32_bld-000000000000/build/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 310
+6月 15, 2014 18:18:58.35 NOTE: child process received `Goodbye', closing down
+
+6月 17, 2014 20:37:40.05 NEW SESSION
+6月 17, 2014 20:37:40.05 *** ERROR COBA: Failed to hook function: getShortcutOrURI
+6月 17, 2014 20:43:34.81 *** ERROR COBA: Failed to hook function: getShortcutOrURI
+6月 17, 2014 20:44:53.58 PluralForm.jsm: Index #1 of '#1 涓鍒欍�' for value 26 is invalid -- plural rule #1; called by 
+6月 17, 2014 20:45:20.21 PluralForm.jsm: Index #1 of '#1 涓鍒欍�' for value 26 is invalid -- plural rule #1; called by 
+6月 17, 2014 20:57:09.97 *** ERROR COBA: Failed to hook function: getShortcutOrURI
+6月 17, 2014 21:09:20.28 *** ERROR COBA: Failed to hook function: getShortcutOrURI
+6月 17, 2014 21:35:47.10 *** ERROR COBA: Failed to hook function: getShortcutOrURI
+6月 17, 2014 21:51:00.54 *** ERROR COBA: Failed to hook function: getShortcutOrURI
+6月 17, 2014 21:54:56.10 *** ERROR COBA: Failed to hook function: getShortcutOrURI
+6月 17, 2014 22:07:41.75 NOTE: child process received `Goodbye', closing down
+6月 17, 2014 22:07:41.75 [7668] WARNING: pipe error: 109: file c:/builds/moz2_slave/rel-m-rel-w32_bld-000000000000/build/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 310
+
+6月 18, 2014 20:45:57.19 NEW SESSION
+6月 18, 2014 20:45:57.19 *** ERROR COBA: Failed to hook function: getShortcutOrURI
+6月 18, 2014 20:54:01.69 NOTE: child process received `Goodbye', closing down
+6月 18, 2014 20:54:01.70 [4896] WARNING: pipe error: 109: file c:/builds/moz2_slave/rel-m-rel-w32_bld-000000000000/build/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 310
+6月 18, 2014 21:40:48.62 *** ERROR COBA: Failed to hook function: getShortcutOrURI
+6月 18, 2014 22:05:48.72 NOTE: child process received `Goodbye', closing down
+6月 18, 2014 22:05:48.72 [5692] WARNING: pipe error: 109: file c:/builds/moz2_slave/rel-m-rel-w32_bld-000000000000/build/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 310
+6月 18, 2014 22:33:01.61 *** ERROR COBA: Failed to hook function: getShortcutOrURI
+6月 18, 2014 22:48:58.87 *** ERROR COBA: Failed to hook function: getShortcutOrURI
+6月 18, 2014 22:49:36.23 *** ERROR COBA: Failed to hook function: getShortcutOrURI
+6月 18, 2014 23:05:53.64 *** ERROR COBA: Failed to hook function: getShortcutOrURI
+
+6月 19, 2014 11:52:50.91 NEW SESSION
+6月 19, 2014 11:52:50.91 *** ERROR COBA: Failed to hook function: getShortcutOrURI
+6月 19, 2014 11:57:52.91 *** ERROR COBA: Failed to hook function: getShortcutOrURI
+6月 19, 2014 12:00:16.44 *** ERROR COBA: Failed to hook function: getShortcutOrURI
+6月 19, 2014 12:14:21.50 Handler function DebuggerClient.requester threw an exception: Error: 'delete' request packet has no destination.
+6月 19, 2014 12:14:21.50 Stack: DebuggerClient.prototype.request@resource://gre/modules/devtools/dbg-client.jsm:593
+6月 19, 2014 12:14:21.50 DebuggerClient.requester/<@resource://gre/modules/devtools/dbg-client.jsm:335
+6月 19, 2014 12:14:21.51 makeInfallible/<@resource://gre/modules/devtools/DevToolsUtils.jsm -> resource://gre/modules/devtools/DevToolsUtils.js:80
+6月 19, 2014 12:14:21.51 Breakpoints.prototype.removeBreakpoint/<@chrome://browser/content/devtools/debugger-controller.js:2000
+6月 19, 2014 12:14:21.51 resolve@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/core/promise.js:118
+6月 19, 2014 12:14:21.51 then@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/core/promise.js:43
+6月 19, 2014 12:14:21.51 then@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/core/promise.js:153
+6月 19, 2014 12:14:21.51 Breakpoints.prototype.removeBreakpoint@chrome://browser/content/devtools/debugger-controller.js:1998
+6月 19, 2014 12:14:21.51 Breakpoints.prototype._onEditorBreakpointRemove@chrome://browser/content/devtools/debugger-controller.js:1822
+6月 19, 2014 12:14:21.51 EventEmitter_emit@resource://gre/modules/commonjs/toolkit/loader.js -> resource:///modules/devtools/shared/event-emitter.js:126
+6月 19, 2014 12:14:21.51 removeBreakpoint@resource://gre/modules/commonjs/toolkit/loader.js -> resource:///modules/devtools/sourceeditor/debugger.js:153
+6月 19, 2014 12:14:21.51 DebuggerView._initializeEditor/<@chrome://browser/content/devtools/debugger-view.js:241
+6月 19, 2014 12:14:21.51 EventEmitter_emit@resource://gre/modules/commonjs/toolkit/loader.js -> resource:///modules/devtools/shared/event-emitter.js:126
+6月 19, 2014 12:14:21.51 Editor.prototype.appendTo/onLoad/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource:///modules/devtools/sourceeditor/editor.js:304
+6月 19, 2014 12:14:21.51 signalLater/bnd/window.CodeMirror@chrome://browser/content/devtools/codemirror/codemirror.js:5498
+6月 19, 2014 12:14:21.51 endOperation@chrome://browser/content/devtools/codemirror/codemirror.js:1428
+6月 19, 2014 12:14:21.51 operation/window.CodeMirror@chrome://browser/content/devtools/codemirror/codemirror.js:1437
+6月 19, 2014 12:14:21.51 Line: 593, column: 6
+
+6月 19, 2014 14:09:56.23 NEW SESSION
+6月 19, 2014 14:09:56.23 *** ERROR COBA: Failed to hook function: getShortcutOrURI
+6月 19, 2014 14:49:47.27 NOTE: child process received `Goodbye', closing down
+6月 19, 2014 14:49:47.32 [1140] WARNING: pipe error: 109: file c:/builds/moz2_slave/rel-m-rel-w32_bld-000000000000/build/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 310
+6月 19, 2014 15:50:54.34 *** ERROR COBA: Failed to hook function: getShortcutOrURI
+6月 19, 2014 16:17:22.89 No permission to use the keyboard API for http://googleads.g.doubleclick.net
+6月 19, 2014 16:18:49.99 NOTE: child process received `Goodbye', closing down
+6月 19, 2014 16:18:50.04 [1804] WARNING: pipe error: 109: file c:/builds/moz2_slave/rel-m-rel-w32_bld-000000000000/build/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 310
+
+6月 19, 2014 20:39:58.77 NEW SESSION
+6月 19, 2014 20:39:58.77 1403181598775	addons.update-checker	WARN	HTTP Request failed for an unknown reason
+6月 19, 2014 20:39:58.79 1403181598776	addons.repository	WARN	Search failed when repopulating cache
+6月 19, 2014 20:39:58.86 1403181598866	addons.update-checker	WARN	HTTP Request failed for an unknown reason
+6月 19, 2014 20:39:58.86 1403181598866	addons.update-checker	WARN	HTTP Request failed for an unknown reason
+6月 19, 2014 20:39:58.86 1403181598866	addons.update-checker	WARN	HTTP Request failed for an unknown reason
+6月 19, 2014 20:39:58.86 1403181598867	addons.update-checker	WARN	HTTP Request failed for an unknown reason
+6月 19, 2014 20:40:01.11 1403181601107	addons.update-checker	WARN	HTTP Request failed for an unknown reason
+6月 19, 2014 20:40:01.11 1403181601108	addons.update-checker	WARN	HTTP Request failed for an unknown reason
+6月 19, 2014 20:40:01.11 1403181601109	addons.update-checker	WARN	HTTP Request failed for an unknown reason
+6月 19, 2014 20:40:01.11 1403181601109	addons.update-checker	WARN	HTTP Request failed for an unknown reason
+6月 19, 2014 20:40:03.41 1403181603364	addons.update-checker	WARN	HTTP Request failed for an unknown reason
+6月 19, 2014 20:40:03.41 1403181603365	addons.update-checker	WARN	HTTP Request failed for an unknown reason
+6月 19, 2014 20:40:03.41 1403181603365	addons.update-checker	WARN	HTTP Request failed for an unknown reason
+6月 19, 2014 20:40:03.41 1403181603366	addons.update-checker	WARN	HTTP Request failed for an unknown reason
+6月 19, 2014 20:40:03.41 1403181603367	addons.update-checker	WARN	HTTP Request failed for an unknown reason
+6月 19, 2014 20:40:03.41 1403181603367	addons.update-checker	WARN	HTTP Request failed for an unknown reason
+6月 19, 2014 20:40:05.66 1403181605660	addons.update-checker	WARN	HTTP Request failed for an unknown reason
+6月 19, 2014 20:40:05.66 1403181605661	addons.update-checker	WARN	HTTP Request failed for an unknown reason
+6月 19, 2014 20:40:05.66 1403181605662	addons.update-checker	WARN	HTTP Request failed for an unknown reason
+6月 19, 2014 20:40:05.66 1403181605663	addons.update-checker	WARN	HTTP Request failed for an unknown reason
+6月 19, 2014 20:40:05.66 1403181605663	addons.update-checker	WARN	HTTP Request failed for an unknown reason
+6月 19, 2014 21:09:50.54 console.error: 
+6月 19, 2014 21:09:50.54   unused
+6月 19, 2014 21:09:50.54 console.error: 
+6月 19, 2014 21:09:50.54   unused
+6月 19, 2014 21:09:50.54 console.error: 
+6月 19, 2014 21:09:50.54   unused
+6月 19, 2014 22:12:42.16 [3316] WARNING: pipe error: 109: file c:/builds/moz2_slave/rel-m-rel-w32_bld-000000000000/build/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 310
+
+6月 20, 2014 09:15:14.28 NEW SESSION
+6月 20, 2014 09:15:14.28 console.error: 
+6月 20, 2014 09:15:14.29   unused
+6月 20, 2014 09:15:14.29 console.error: 
+6月 20, 2014 09:15:14.29   unused
+6月 20, 2014 09:15:14.29 console.error: 
+6月 20, 2014 09:15:14.29   unused
+6月 20, 2014 09:15:14.29 console.error: 
+6月 20, 2014 09:15:14.29   unused
+6月 20, 2014 09:15:14.29 console.error: 
+6月 20, 2014 09:15:14.29   unused
+6月 20, 2014 09:15:14.29 console.error: 
+6月 20, 2014 09:15:14.29   unused
+6月 20, 2014 09:15:14.29 console.error: 
+6月 20, 2014 09:15:14.29   unused
+6月 20, 2014 09:15:14.29 console.error: 
+6月 20, 2014 09:15:14.30   unused
+6月 20, 2014 09:15:26.50 console.error: 
+6月 20, 2014 09:15:26.50   unused
+6月 20, 2014 09:15:26.50 console.error: 
+6月 20, 2014 09:15:26.51   unused
+6月 20, 2014 09:15:27.82 console.error: 
+6月 20, 2014 09:15:27.82   unused
+6月 20, 2014 09:15:27.82 console.error: 
+6月 20, 2014 09:15:27.83   unused
+6月 20, 2014 09:15:29.22 console.error: 
+6月 20, 2014 09:15:29.22   unused
+6月 20, 2014 09:15:29.22 console.error: 
+6月 20, 2014 09:15:29.22   unused
+6月 20, 2014 09:15:29.33 console.error: 
+6月 20, 2014 09:15:29.33   unused
+6月 20, 2014 09:15:29.33 console.error: 
+6月 20, 2014 09:15:29.33   unused
+6月 20, 2014 09:17:40.90 console.error: 
+6月 20, 2014 09:17:40.90   Message: Error: Connection closed
+6月 20, 2014 09:17:40.90   Stack:
+6月 20, 2014 09:17:40.90     Front<.destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/protocol.js:997:7
+6月 20, 2014 09:17:40.90 exports.WalkerFront<.destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/inspector.js:2158:5
+6月 20, 2014 09:17:40.90 frontProto/</proto[name]/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/protocol.js:1179:11
+6月 20, 2014 09:17:40.90 resolve@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/core/promise.js:118:11
+6月 20, 2014 09:17:40.90 then@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/core/promise.js:43:43
+6月 20, 2014 09:17:40.90 resolve@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/core/promise.js:185:11
+6月 20, 2014 09:17:40.90 resolve@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/core/promise.js:118:11
+6月 20, 2014 09:17:40.90 then@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/core/promise.js:43:43
+6月 20, 2014 09:17:40.90 resolve@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/core/promise.js:185:11
+6月 20, 2014 09:17:40.90 resolve@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/core/promise.js:118:11
+6月 20, 2014 09:17:40.90 then@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/core/promise.js:43:43
+6月 20, 2014 09:17:40.90 resolve@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/core/promise.js:185:11
+6月 20, 2014 09:17:40.90 Front<.onPacket@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/protocol.js:1068:7
+6月 20, 2014 09:17:40.91 DebuggerClient.prototype.onPacket/<@resource://gre/modules/devtools/dbg-client.jsm:691:9
+6月 20, 2014 09:17:40.91 resolve@resource://gre/modules/commonjs/sdk/core/promise.js:118:11
+6月 20, 2014 09:17:40.91 then@resource://gre/modules/commonjs/sdk/core/promise.js:43:43
+6月 20, 2014 09:17:40.91 then@resource://gre/modules/commonjs/sdk/core/promise.js:153:9
+6月 20, 2014 09:17:40.91 DebuggerClient.prototype.onPacket@resource://gre/modules/devtools/dbg-client.jsm:733:1
+6月 20, 2014 09:17:40.91 LDT_send/<@resource://gre/modules/devtools/dbg-client.jsm -> resource://gre/modules/devtools/server/transport.js:258:11
+6月 20, 2014 09:17:40.91 makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/DevToolsUtils.js:80:7
+6月 20, 2014 09:17:40.91 
+6月 20, 2014 09:17:40.91 console.error: 
+6月 20, 2014 09:17:40.91   Message: Error: Connection closed
+6月 20, 2014 09:17:40.91   Stack:
+6月 20, 2014 09:17:40.91     Front<.destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/protocol.js:997:7
+6月 20, 2014 09:17:40.91 exports.WalkerFront<.destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/inspector.js:2158:5
+6月 20, 2014 09:17:40.91 frontProto/</proto[name]/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/protocol.js:1179:11
+6月 20, 2014 09:17:40.91 resolve@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/core/promise.js:118:11
+6月 20, 2014 09:17:40.91 then@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/core/promise.js:43:43
+6月 20, 2014 09:17:40.91 resolve@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/core/promise.js:185:11
+6月 20, 2014 09:17:40.91 resolve@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/core/promise.js:118:11
+6月 20, 2014 09:17:40.91 then@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/core/promise.js:43:43
+6月 20, 2014 09:17:40.91 resolve@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/core/promise.js:185:11
+6月 20, 2014 09:17:40.91 resolve@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/core/promise.js:118:11
+6月 20, 2014 09:17:40.91 then@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/core/promise.js:43:43
+6月 20, 2014 09:17:40.91 resolve@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/core/promise.js:185:11
+6月 20, 2014 09:17:40.91 Front<.onPacket@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/protocol.js:1068:7
+6月 20, 2014 09:17:40.91 DebuggerClient.prototype.onPacket/<@resource://gre/modules/devtools/dbg-client.jsm:691:9
+6月 20, 2014 09:17:40.91 resolve@resource://gre/modules/commonjs/sdk/core/promise.js:118:11
+6月 20, 2014 09:17:40.91 then@resource://gre/modules/commonjs/sdk/core/promise.js:43:43
+6月 20, 2014 09:17:40.91 then@resource://gre/modules/commonjs/sdk/core/promise.js:153:9
+6月 20, 2014 09:17:40.91 DebuggerClient.prototype.onPacket@resource://gre/modules/devtools/dbg-client.jsm:733:1
+6月 20, 2014 09:17:40.92 LDT_send/<@resource://gre/modules/devtools/dbg-client.jsm -> resource://gre/modules/devtools/server/transport.js:258:11
+6月 20, 2014 09:17:40.92 makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/DevToolsUtils.js:80:7
+6月 20, 2014 09:17:40.92 
+6月 20, 2014 10:48:51.62 [5980] WARNING: pipe error: 109: file c:/builds/moz2_slave/rel-m-rel-w32_bld-000000000000/build/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 310
+
+7月 10, 2014 15:50:50.58 NEW SESSION
+7月 10, 2014 15:50:50.58 [9196] WARNING: pipe error: 109: file c:/builds/moz2_slave/rel-m-rel-w32_bld-000000000000/build/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 310
+7月 10, 2014 16:00:28.61 1404979228604	addons.update-checker	WARN	Update manifest for CNTVLive2@www.cntv.cn did not contain an updates property
+7月 10, 2014 16:00:31.32 1404979231309	addons.update-checker	WARN	Update manifest for {972ce4c6-7e08-4474-a285-3208198ce6fd} did not contain an updates property
+7月 10, 2014 16:38:26.63 [6928] WARNING: pipe error: 109: file c:/builds/moz2_slave/rel-m-rel-w32_bld-000000000000/build/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 310
+7月 10, 2014 17:11:43.30 [4524] WARNING: pipe error: 109: file c:/builds/moz2_slave/rel-m-rel-w32_bld-000000000000/build/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 310
+7月 10, 2014 17:18:01.50 No permission to use the keyboard API for http://googleads.g.doubleclick.net
+7月 10, 2014 21:38:42.80 [6860] WARNING: pipe error: 109: file c:/builds/moz2_slave/rel-m-rel-w32_bld-000000000000/build/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 310
