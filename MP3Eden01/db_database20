@@ -1,0 +1,59 @@
+/*
+SQLyog v10.2 
+MySQL - 5.6.17 : Database - db_database20
+*********************************************************************
+*/
+
+/*!40101 SET NAMES utf8 */;
+
+/*!40101 SET SQL_MODE=''*/;
+
+/*!40014 SET @OLD_UNIQUE_CHECKS=@@UNIQUE_CHECKS, UNIQUE_CHECKS=0 */;
+/*!40014 SET @OLD_FOREIGN_KEY_CHECKS=@@FOREIGN_KEY_CHECKS, FOREIGN_KEY_CHECKS=0 */;
+/*!40101 SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='NO_AUTO_VALUE_ON_ZERO' */;
+/*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;
+CREATE DATABASE /*!32312 IF NOT EXISTS*/`db_database20` /*!40100 DEFAULT CHARACTER SET utf8 */;
+
+USE `db_database20`;
+
+/*Table structure for table `tb_file` */
+
+DROP TABLE IF EXISTS `tb_file`;
+
+CREATE TABLE `tb_file` (
+  `id` int(10) unsigned NOT NULL AUTO_INCREMENT COMMENT '主键',
+  `file_name` varchar(45) DEFAULT NULL COMMENT '文件名称',
+  `file_uploadPerson` varchar(45) DEFAULT NULL COMMENT '上传文件名',
+  `file_address` varchar(100) DEFAULT NULL COMMENT '上传地址',
+  `file_uptime` varchar(45) DEFAULT NULL COMMENT '文件上传时间',
+  `file_showname` varchar(45) DEFAULT NULL COMMENT '允许下载人',
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB AUTO_INCREMENT=38 DEFAULT CHARSET=utf8;
+
+/*Data for the table `tb_file` */
+
+insert  into `tb_file`(`id`,`file_name`,`file_uploadPerson`,`file_address`,`file_uptime`,`file_showname`) values (1,'那个 - 文筱芮',NULL,'D:/eclisp/MP3Eden/WebContent/content/songs/na_ge.mp3',NULL,'na_ge'),(2,'妳能听见吗- 童可可',NULL,'D:\\eclisp\\MP3Eden\\WebContent\\content\\songs\\ni_neng_ting_jian_ma.mp3',NULL,'ni_neng_ting_jian_ma'),(3,'寻寻觅觅 - Christine Welch',NULL,'D:\\eclisp\\MP3Eden\\WebContent\\content\\songs\\xun_xun_mi_mi.mp3',NULL,'xun_xun_mi_mi'),(4,'人来人往 - Eason Chan',NULL,'D:\\eclisp\\MP3Eden\\WebContent\\content\\songs\\ren_lai_ren_wang.mp3',NULL,'ren_lai_ren_wang'),(5,'公主的天堂 - 庭竹',NULL,'D:\\eclisp\\MP3Eden\\WebContent\\content\\songs\\gong_zhu_de_tian_tang.mp3',NULL,'gong_zhu_de_tian_tang'),(6,'兰芷铃音·记兰生襄铃 ',NULL,'D:\\eclisp\\MP3Eden\\WebContent\\content\\songs\\lan_zhi_ling_yin.mp3',NULL,'lan_zhi_ling_yin'),(7,'Dear John',NULL,'D:\\eclisp\\MP3Eden\\WebContent\\content\\songs\\dear_john.mp3',NULL,'dear_john'),(8,'以后的以后 - 庄心妍',NULL,'D:\\eclisp\\MP3Eden\\WebContent\\content\\songs\\yi_hou_de_yi_hou.mp3',NULL,'yi_hou_de_yi_hou'),(9,'那年初夏 - 任然',NULL,'D:\\eclisp\\MP3Eden\\WebContent\\content\\songs\\na_nian_chu_xia.mp3',NULL,'na_nian_chu_xia'),(10,'Closer To Me',NULL,'D:\\eclisp\\MP3Eden\\WebContent\\content\\songs\\closer_to_me.mp3',NULL,'closer_to_me'),(11,'七夕 - 邓丽欣',NULL,'D:\\eclisp\\MP3Eden\\WebContent\\content\\songs\\qi_xi.mp3',NULL,'qi_xi'),(12,'爱一点 - 莫艳琳',NULL,'D:\\eclisp\\MP3Eden\\WebContent\\content\\songs\\ai_yi_dian.mp3',NULL,'ai_yi_dian'),(13,'First Love',NULL,'D:\\eclisp\\MP3Eden\\WebContent\\content\\songs\\first_love.mp3',NULL,'first_love'),(37,'B1A4 - Believe In Love',NULL,'D:\\eclisp\\MP3Eden\\WebContent\\content\\songs\\believe_in_love.mp3','2014年6月18日 星期三','believe_in_love');
+
+/*Table structure for table `tb_user` */
+
+DROP TABLE IF EXISTS `tb_user`;
+
+CREATE TABLE `tb_user` (
+  `id` int(45) unsigned NOT NULL AUTO_INCREMENT COMMENT '主键',
+  `user_name` varchar(45) DEFAULT NULL COMMENT '用户名',
+  `user_password` varchar(45) DEFAULT NULL COMMENT '用户密码',
+  `uesr_email` varchar(45) DEFAULT NULL COMMENT '用户邮箱',
+  `user_sex` varchar(45) DEFAULT NULL COMMENT '用户性别',
+  `user_phone` varchar(45) DEFAULT NULL COMMENT '用户电话',
+  `user_QQ` varchar(45) DEFAULT NULL COMMENT '用户qq',
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB AUTO_INCREMENT=11 DEFAULT CHARSET=utf8;
+
+/*Data for the table `tb_user` */
+
+insert  into `tb_user`(`id`,`user_name`,`user_password`,`uesr_email`,`user_sex`,`user_phone`,`user_QQ`) values (6,'许涛','12','123','男','123','12'),(10,'许涛','1','1','男','123','12');
+
+/*!40101 SET SQL_MODE=@OLD_SQL_MODE */;
+/*!40014 SET FOREIGN_KEY_CHECKS=@OLD_FOREIGN_KEY_CHECKS */;
+/*!40014 SET UNIQUE_CHECKS=@OLD_UNIQUE_CHECKS */;
+/*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
